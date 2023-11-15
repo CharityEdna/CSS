@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(components/images/th.jpeg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    text-shadow: aqua;
+}
+#form{
+    background-color: none;
+    padding: 10px;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+button{
+    padding: 10px;
+    background-color: rgb(40, 241, 40);
+    width: 150px;
+    margin-top: 10px;
+}
+label{
+    font-size: 20px;
+}
+input{
+    font-size: 20px;
+    
+}
